@@ -2283,7 +2283,7 @@
   % Remove comment here in order to have the page numbers! 
   %\cfoot[\thepage]{\thepage}
   \ihead[]{\__short_authors:{} }
-  \ohead[]{{  \itshape IARML@IJCAI-ECAI'22~Workshop~Proceedings}}
+  \ohead[]{{  \itshape IARML@IJCAI'23~Workshop~Proceedings}}
 }{ }
 
 % \newcommand{\hffont}{\sffamily\small}
@@ -2955,3 +2955,4 @@
 %%% TeX-master: t
 %%% coding: utf-8-unix
 %%% End:
+
